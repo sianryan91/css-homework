@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    color: black;
+}
+img {
+        height: 300px
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+    text-decoration: underline;
+    font-family: 'Parisienne', cursive;;
+}
+.box-shadow {
+        font-family: 'Parisienne', cursive;
+        background-color: palevioletred;
+        color: black;
+        padding: 10px;
+        border-radius: 4px;
+        box-shadow: 2px 2px 20px 23px palevioletred;
+      }
+table, th, td {
+        border: 1px solid;
+        width: 50%;
+      }
+td {
+        text-align: center;
+      }
+tr:hover {background-color: palevioletred;}
